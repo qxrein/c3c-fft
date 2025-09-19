@@ -5,4 +5,8 @@
 !flake.lock
 
 !docs/
-!*.md
+!*.mdbuild/
+out/
+!*.json
+
+!src/
