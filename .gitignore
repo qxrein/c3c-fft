@@ -3,3 +3,6 @@
 !.gitignore
 !*.nix
 !flake.lock
+
+!docs/
+!*.md
